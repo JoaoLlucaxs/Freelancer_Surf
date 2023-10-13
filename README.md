@@ -23,6 +23,9 @@
 
 - Pronto, utilize os componentes a vontade , o index.css é uma configuração que deve estar na raiz do projeto para utilizar os componentes
 
+  # Review do site
+  <img src="https://github.com/JoaoLlucaxs/Sistema-Garcom-In-Node/assets/92184255/4dc8cb63-e0f2-40ea-a624-746470802acf"/>
+
 - <p align="center">
   Feito com ❤️ por <a href="https://github.com/JoaoLlucaxs">João Lucas Queiroz (_o_softwaredev)</a>
 </p>
